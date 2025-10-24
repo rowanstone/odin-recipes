@@ -1,1 +1,1 @@
-This project is a basic recipe website written in HTML5.
+This project is a basic recipe website written in HTML5 and showcases three different plant-based recipes. 
